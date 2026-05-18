@@ -1,2 +1,3 @@
 # site
-This is the site for our senior project
+
+This is the site for our senior project (Contrax)
